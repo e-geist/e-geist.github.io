@@ -1,15 +1,17 @@
-# Example Site settings
+title: 'E-Geist'
+baseurl: ""
+url: "https://e-geist.github.io"
 
-#google_analytics: UA-NNNNNNNN-N
+remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-console
+header_pages:
+  - index.md
+  - bio.md
+  - projects_and_contributions.md
 
-#header_pages:
-#  - index.md
-#  - about.md
+style: light # dark (default), light or hacker
+listen_for_clients_preferred_style: false # false (default) or true
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: ''
 
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
-
-plugins:
-  - jekyll-seo-tag
+google_analytics: UA-186970886-1

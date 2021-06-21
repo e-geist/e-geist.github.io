@@ -1,9 +1,17 @@
 ---
-title: /
-layout: home
+layout: page
+title: /e-geist
+lang: en
 permalink: /
 ---
 
-# Lorem ipsum
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello. I am Eugen. I am a developer from Hamburg, Germany.
+I develop software to solve problems.
+{: style="text-align: center;"}
+
+See <a href="/bio">/bio</a> for work and academic experience.
+{: style="text-align: center;"}
+
+See <a href="/projects_and_contributions">/projects&contributions</a> for my own projects and contributions outside of work.
+{: style="text-align: center;"}

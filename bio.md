@@ -4,11 +4,10 @@ title: /bio
 lang: en
 permalink: /bio
 ---
-<h1 style="text-align: center; font-size:140%">bio</h1>
-<table style="border-collapse: separate;
-  border-spacing: 0.75em; text-align:center" align="center" border="0">
+<h1>bio</h1>
+<table id="bio-table" align="center" border="0">
     <tr>
-        <td style="text-align:left"><h1 style="font-size:120%">work</h1></td>
+        <td class="left"><h2>work</h2></td>
         <td></td>
     </tr>
     <tr>
@@ -44,7 +43,7 @@ permalink: /bio
         </td>
     </tr>
     <tr>
-        <td style="text-align:left"><h1 style="font-size:120%">academia</h1></td>
+        <td class="left"><h2>academia</h2></td>
         <td></td>
     </tr>
     <tr>

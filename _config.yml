@@ -1,9 +1,8 @@
 title: 'E-Geist'
 baseurl: ""
-url: "https://e-geist.github.io"
+url: "https://www.eugengeist.dev"
 
-remote_theme: b2a3e8/jekyll-theme-console
-theme: jekyll-theme-console
+
 header_pages:
   - index.md
   - bio.md

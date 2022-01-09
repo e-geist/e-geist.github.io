@@ -11,7 +11,15 @@ permalink: /bio
         <td></td>
     </tr>
     <tr>
-        <td>since June 2020</td>
+        <td>since August 2021</td>
+        <td>
+            <strong>Senior Software Developer, SSW Trading</strong><br>
+            Development of HFT, data and support systems<br>
+            <em>requirements engineering, Python, C++, Java, PostgreSQL, Kafka, Docker, AWS</em>
+        </td>
+    </tr>
+    <tr>
+        <td>June 2020 <br> - <br> July 2021</td>
         <td>
             <strong>Technical Product Owner Trading System, SSW Trading</strong><br>
             Technical management of HFT system <br>

@@ -55,8 +55,8 @@ permalink: /bio
         <td></td>
     </tr>
     <tr>
-        <td>since April 2017</td>
-        <td><strong>M.Sc. Student Applied Computer Science, FernUniversität Hagen</strong></td>
+        <td>April 2017 <br> - <br> January 2022</td>
+        <td><strong>M.Sc. Applied Computer Science, FernUniversität Hagen</strong></td>
     </tr>
     <tr>
         <td>October 2012 <br> - <br> March 2017</td>

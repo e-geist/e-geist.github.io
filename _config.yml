@@ -13,4 +13,7 @@ listen_for_clients_preferred_style: false # false (default) or true
 
 footer: ''
 
+plugins:
+  - jekyll-seo-tag
+
 google_analytics: UA-186970886-1

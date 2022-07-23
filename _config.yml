@@ -16,4 +16,4 @@ footer: ''
 plugins:
   - jekyll-seo-tag
 
-google_analytics: UA-186970886-1
+google_analytics:

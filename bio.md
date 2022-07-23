@@ -11,11 +11,19 @@ permalink: /bio
         <td></td>
     </tr>
     <tr>
-        <td>since August 2021</td>
+        <td>since June 2022</td>
+        <td>
+            <strong>Freelancer Software / Data Engineering</strong><br>
+            Development of HFT, data and support systems<br>
+            <em>requirements, data and software engineering using inter alia: Python, SQL DBs, NoSQL DBs, DataLake, ETL/ELT, AWS</em>
+        </td>
+    </tr>
+    <tr>
+        <td>August 2021 <br> - <br> May 2022</td>
         <td>
             <strong>Senior Software Developer, SSW Trading</strong><br>
             Development of HFT, data and support systems<br>
-            <em>requirements engineering, Python, C++, Java, PostgreSQL, Kafka, Docker, AWS</em>
+            <em>requirements engineering, Python, PostgreSQL, Kafka, Docker, AWS</em>
         </td>
     </tr>
     <tr>
